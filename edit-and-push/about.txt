@@ -1,6 +1,6 @@
-Name: 
+Name: Synne
 Course: Intro to Terminal
 Year: 2026
 
-Tell us a bit about yourself:
+Tell us a bit about yourself: Jeg er 20 år fra Oslo og liker å bade og ha det gøy. Det er kult.
 
